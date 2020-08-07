@@ -6,7 +6,7 @@ Algorithms included:
 BFS, DFS, A* algorithms for path finding on graphs.
 
 Minimax algorithm
--For two players vs a bot that always plays optimally.
+-For two players vs a bot that always plays optimally in the game of tic tac toe
 
 TODO:
 Need to fix A* function so that it is admissible. Since the function is not admissible the path returned is not optimal.
