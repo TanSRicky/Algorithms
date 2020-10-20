@@ -1,6 +1,2 @@
-I treid to use the video from lectures but found that the scoring was off.
-I used the evaluation function from this video:
-https://www.youtube.com/watch?v=trKjYdBASyQ
-I don't know what language the video is in. I think javascript.
-To run it, just open main.py and press f5.
-Used a terminal based GUI since I'm not familliar with python.
+This utilizes the adversarial minimax algorithm on the game tic tac toe. 
+
